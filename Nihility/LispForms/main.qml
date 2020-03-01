@@ -20,5 +20,7 @@ ApplicationWindow {
         RadioButton {
             text: qsTr("Large")
         }
+
+        Apply {}
     }
 }
