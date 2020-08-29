@@ -1,7 +1,12 @@
 <RCC>
     <qresource prefix="/">
         <file>LispForms/ApplyForm.ui.qml</file>
-        <file>LispForms/main.qml</file>
         <file>LispForms/Apply.qml</file>
+        <file>main.qml</file>
+        <file>Splash.qml</file>
+        <file>SplashForm.ui.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="def-bg">images/def-background.png</file>
     </qresource>
 </RCC>
